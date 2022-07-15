@@ -1,7 +1,6 @@
 # laracars_crud
 
 Tipologia progetto: Individuale
-Nome repo: laracars_crud
 
 Partendo dal progetto Laravel relativo al DB costruito (correttamente) nel laracars_shop che, ricordiamo, aveva le seguenti peculiarità:
 
