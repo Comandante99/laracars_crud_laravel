@@ -30,8 +30,3 @@ Extra:
 
 * Simulare un'interfaccia di pagamento simulato prima della creazione di un ordine (utilizzate una sandbox di un gateway di pagamento).
 
-N.B. Allegate anche il .env originale al progetto, facendo attenzione che questo venga GITTATO, rimuovendolo dal .gitignore del vostro progetto!
-
-Scadenza di consegna:
-
-Domenica 15 Maggio 2022, h22.00.
